@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello everyone 👋👋👋
+
+-Personally, I have strong interests in both mathematics and machine learning.
+✨AI rules!✨
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackswanblood&show_icons=true&theme=cobalt)
 <!--
 **blackswanblood/blackswanblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
