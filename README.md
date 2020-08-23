@@ -1,7 +1,12 @@
 ## Hello everyone 👋👋👋
 
--Personally, I have strong interests in both mathematics and machine learning.
+- *Personally, I have strong interests in both mathematics and computer science.*
+- 😄 Hope to develop robust skills in these fields! 
+- 📫 How to reach me: yuxiang.f@alumni.ubc.ca
+
 ✨AI rules!✨
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackswanblood&show_icons=true&theme=cobalt)
 <!--
 **blackswanblood/blackswanblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
