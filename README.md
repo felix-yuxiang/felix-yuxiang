@@ -1,8 +1,9 @@
 ## Hello everyone 👋👋👋
 
-- *Personally, I have strong interests in both mathematics and computer science.*
+- *Personally, I have strong interests in both mathematics and computer science. Keen to participate in related competitions or projects.*
 - 😄 Hope to develop robust skills in these fields! 
-- 📫 How to reach me: yuxiang.f@alumni.ubc.ca
+- 📫 How to reach me: yuxiang.f@alumni.ubc.ca | Feel free to contact me and we can team up ~
+- 🌱 I’m currently learning basic **computer vision and machine learning**.
 
 ✨AI rules!✨
 
