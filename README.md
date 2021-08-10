@@ -4,8 +4,14 @@
 - 😄 Hope to develop robust skills in these fields! 
 - 📫 How to reach me: yuxiang.f@alumni.ubc.ca | Feel free to contact me and we can team up ~
 - 🌱 I’m currently learning basic **computer vision and machine learning**.
+- 🔭 I’m currently working on my personal website.
 
-✨AI rules!✨
+Interested fields:
+- Computer Vision
+- Group Theory
+- Graphs
+- Algorithms analysis
+- Machine Learning
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackswanblood&show_icons=true&theme=cobalt)
