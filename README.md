@@ -9,6 +9,7 @@
 Interested fields:
 - Computer Vision
 - Group Theory
+- ODE & PDE
 - Graphs
 - Algorithms analysis
 - Machine Learning
