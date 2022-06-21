@@ -10,6 +10,8 @@ Interested fields:
 - Graphs
 - Algorithms analysis
 - Machine Learning
+- Probabilistic programming languages
+- MCMC and VI
 - Measure thoery
 
 
