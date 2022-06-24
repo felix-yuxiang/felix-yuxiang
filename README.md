@@ -4,7 +4,7 @@
 - 😄 Hope to develop robust skills in these fields! 
 - 📫 How to reach me: yuxiang.f@alumni.ubc.ca | Feel free to contact me and we can team up ~
 - 🌱 I’m currently learning **ML** and **RL**.
-- 🔭 I’m currently working on my personal website and help/devise Bioinformatic pipeline.
+- 🔭 I’m currently help/devise Bioinformatic pipeline.
 
 Interested fields:
 - Graphs
