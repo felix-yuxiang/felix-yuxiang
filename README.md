@@ -7,12 +7,11 @@
 - 🔭 I’m currently help/devise Bioinformatic pipeline.
 
 Interested fields:
-- Graphs
 - Algorithms analysis
 - Machine Learning
 - Probabilistic programming languages
 - MCMC and VI
-- Measure thoery
+- Graphical models
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felix-yuxiang&show_icons=true&theme=cobalt)
