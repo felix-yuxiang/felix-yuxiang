@@ -9,7 +9,6 @@
 Interested fields:
 - Algorithms analysis
 - Probabilistic Machine Learning
-- Probabilistic programming languages
 - MCMC and VI
 - Graphical models
 - Elements in Causal Inference
