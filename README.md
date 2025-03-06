@@ -7,7 +7,7 @@
 
 Interested fields:
 - Diffusion and Flow-based models
-- Stochastic Differential Equations, Random processes
+- Stochastic Differential Equations; Random processes
 - Graphical models
 
 
