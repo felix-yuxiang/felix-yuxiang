@@ -6,11 +6,9 @@
 - 🔭 I’m currently in stochastic trajectories generation and simulation. (self-driving)
 
 Interested fields:
-- Flow-based models
+- Diffusion and Flow-based models
 - Stochastic Differential Equations, Random processes
-- Invariant and equivariant networks
 - Graphical models
-- Elements in Causal Inference
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felix-yuxiang&show_icons=true&theme=cobalt)
